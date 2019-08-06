@@ -1,0 +1,25 @@
+{
+  "name": "dotenv-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for .env files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remonkey/dotenv-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "require",
+    "env",
+    "loader"
+  ],
+  "author": "remonkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remonkey/dotenv-loader/issues"
+  },
+  "homepage": "https://github.com/remonkey/dotenv-loader"
+}
